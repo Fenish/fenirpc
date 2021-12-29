@@ -1,3 +1,6 @@
+# Fenirpc
+Döviz kurlarını gösteren ufak bir discord rich presence uygulaması
+
 # Kurulum
   - Pythonu yükleyin varsa sonraki adıma geçin
   - Konsolu açın
