@@ -10,3 +10,6 @@ Döviz kurlarını gösteren ufak bir discord rich presence uygulaması
 ## Çalıştırmak İçin
   - Dosyanın adını `fenirpc.pyw` yaparsanız çift tıklama ile arka planda çalışır.
   - Yada `python fenirpc.py` yazarak çalıştırabilirsiniz. 
+
+### Görünüm
+![](https://i.imgur.com/CMs4yZe.gif)
